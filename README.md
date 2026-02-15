@@ -1,5 +1,3 @@
-TRABALHO FINAL PBD 
-
 # Introdução e Requisitos
 Trabalho final para a disciplina de Projeto em Banco de Dados do curso de Bacharelado em Ciência da Computação na UFPel.
 
